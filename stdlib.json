@@ -1,1 +1,12 @@
 
+{
+  "name": "MADCLAPPA#4469/SUPERBOXX-IPTV",
+  "timeout": 10000,
+  "connector": true,
+   "env":{ 
+
+      "name": "SUPERBOXXX_CHANNEL",
+      "description": "972787168797933609"
+  }
+  
+}
